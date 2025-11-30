@@ -1,2 +1,2 @@
 # Python-LM
-Python LM Learning Macine
+Python LM Learning Machine
